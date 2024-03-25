@@ -1,0 +1,7 @@
+cat("Enter name:")
+name=readline()
+print(name)
+age=readline(prompt="enter your age:")
+print(name)
+print(age)
+print(R.version.string)
